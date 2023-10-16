@@ -1,1 +1,1 @@
-# test-practice
+This mini project is to help practice test driven development.
